@@ -16,7 +16,7 @@ The purpose of the project is build a website similar to [reddit](reddit.com).
 
 ## Features
 
-In this project, the followin actions are done;
+In this project, the following actions are done;
 
 - Added models for user, post and comment, separately
 - Added necessary validations for each model
