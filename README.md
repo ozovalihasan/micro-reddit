@@ -1,24 +1,66 @@
-# README
+# Hillary Kiptoo and Hasan Ozovali (Micro-Reddit) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ozovalihasan/micro-reddit)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+![GitHub followers](https://img.shields.io/github/followers/imhilla?label=imhilla&style=social)
+![Twitter URL](https://img.shields.io/twitter/url?label=hillarykiptoo&style=social&url=https%3A%2F%2Ftwitter.com%2Fhillary) [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+![GitHub followers](https://img.shields.io/github/followers/ozovalihasan?label=Hasan&style=social)
+![Twitter URL](https://img.shields.io/twitter/url?label=ozovalihasan&style=social&url=https%3A%2F%2Ftwitter.com%2Fhasan)
 
-Things you may want to cover:
+> This is a Microverse Ruby and Rails Project
 
-* Ruby version
+> Micro Reddit
 
-* System dependencies
+## Description
 
-* Configuration
+The purpose of the project is build a website similar to [reddit](reddit.com).
 
-* Database creation
+## Features
 
-* Database initialization
+In this project, the followin actions are done;
 
-* How to run the test suite
+- Added models for user, post and comment, separately
+- Added necessary validations for each model
+- Associated models if it is necessary
 
-* Services (job queues, cache servers, search engines, etc.)
+## Built With
 
-* Deployment instructions
+- Ruby on rails
+- Git
+- Shields.io
 
-* ...
+## Authors
+
+Reach out to us at one of the following places!
+
+👤 **Hillary Kiptoo**
+
+- LinkedIn: [Hillary Kiptoo](https://www.linkedin.com/in/hillarykiptoo)
+- Github: [@imhilla](https://github.com/imhilla)
+- Twitter: [@hillarykiptoo](https://twitter.com/hillarykiptoo_)
+
+👤 **Hasan Özovalı**
+
+- LinkedIn: [Hasan Ozovali](https://www.linkedin.com/in/ozovalihasan)
+- Github: [@ozovalhasan](https://github.com/ozovalihasan)
+- Twitter: [@ozovalihasan](https://twitter.com/ozovalihasan)
+- Mail: [ozovalihasan@gmail.com](ozovalihasan@gmail.com)
+
+## Contributing 🤝
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](./issues/).
+
+## Acknowledgments
+
+- Thanks to Microverse for its support!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
