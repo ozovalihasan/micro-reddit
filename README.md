@@ -1,4 +1,4 @@
-# Hillary Kiptoo and Hasan Ozovali (Micro-Reddit) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ozovalihasan/micro-reddit)
+# Micro-Reddit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ozovalihasan/micro-reddit)
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 ![GitHub followers](https://img.shields.io/github/followers/imhilla?label=imhilla&style=social)
